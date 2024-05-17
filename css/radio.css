@@ -1,0 +1,86 @@
+.barre { position: fixed; z-index:9999;bottom:0px; left:0px;right:0px; padding:10px 0px 5px 0px; background-color:rgb(33, 33, 33);color:rgb(144, 144, 144);user-select: none;display: grid;grid-template-columns: 0fr 1fr 0fr;grid-template-areas:"start middle end";min-height:64px;max-height:64px;}
+.barre a, .barre a:hover, .barre a:visited {color: inherit;}
+.barre a:hover { text-decoration: underline;}
+.translated-ltr .barre,.translated-rtl .barre {bottom: 40px;}
+.bar-left,.bar-center,.bar-right { display: flex;align-items: center; }
+.bar-left { grid-area: start; }
+.barre .material-icons {  padding: 8px;  margin: 0 0 0 8px;  background: transparent;  cursor: pointer;}
+.bar-left .material-icons {  margin: 0 0 0 8px;}
+.bar-right .material-icons {  margin: 0 4px 0 0;border-radius: 50px; overflow:hidden;}
+.bar-right input { margin: 0 12px 0 0;cursor: pointer; }
+.bar-center { grid-area: middle;display: flex; align-items: center;justify-content: center; overflow: hidden; }
+.bar-right { grid-area: end;justify-self: end;  position: relative;  justify-content: flex-end;  margin: 0 4px 0 0; white-space:nowrap;}
+.bar-right > * { margin-right: 5px;}
+.video-info { display: flex;flex-direction: column;overflow: hidden;margin: 0 8px 0 16px;}
+#video-author { font-size: 16px; font-weight:bold;color: #fff; }
+#video-author, .video-title-date { display: block;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;}
+#video-time { white-space: nowrap;margin: 0 16px 0 8px; font-size: 12px;font-family: monospace;}
+.barre #volume-slider {width: 100px;}
+.playButton .post { display: flex; }
+.playButton, .blog-pager, .post-bottom { user-select: none; }
+.playButton  .splash { background-color: rgba(66, 9, 56,0.6); }
+.post-outer-container.playButton { background-color: rgba(0,0,0,0.0);margin: 0px; }
+.Blog .grid.blog-posts .post-outer-container { border-width: 0px; margin: 0px; padding: 0px;}
+.post-outer-container.playButton:hover { background-color:rgba(66, 9, 56,0.1); }
+.post-outer-container.playButton.highlight {background-color:rgba(66, 9, 56,0.1);animation-name: highlight-animation;animation-duration: 0.9s;animation-timing-function: ease-in-out;animation-iteration-count: 1;animation-fill-mode: forwards;}
+@keyframes highlight-animation {
+    0% {background-color:rgba(0,0,0,0.0);transform: rotateX(0deg) rotateY(0deg);}
+    100% {background-color: rgba(66, 9, 56,0.1);transform: rotateX(360deg) rotateY(0deg);}
+}
+#progress-bar-container { width: 100%; height: 20px; background-color: transparent; position: absolute; top: -9px; left: 0; right: 0;cursor:pointer;}
+.background-bar {width:100%;background-color: #3e3e3e;height: 2px;position: absolute; top: 9px; right: 0;transition: top 0.2s ease, height 0.2s ease;}
+#progress-bar { width: 0px;height: 2px; border-radius: 0 20px 20px 0; background-color: rgb(173, 47, 208);position: absolute; top: 9px;left: 0; transition: top 0.2s ease, height 0.2s ease;}
+.barre #slider-handle {position: absolute;background-color:transparent;border-radius: 50%;cursor: pointer;top: -4px;margin-left: -12px;opacity: 0;transition: opacity 0.2s ease;}
+.barre #slider-handle > div {width: 14px;height: 14px;background-color:rgb(173, 47, 208);border-radius: 50%;margin:7px;}
+.barre:hover #slider-handle { opacity: 1; }
+#progress-bar-container:hover .background-bar, #progress-bar-container:hover #progress-bar {height: 4px;top: 8px;}
+.material-icons { vertical-align: middle; cursor: pointer; }
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+@keyframes rotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.rotate-icon { animation: rotate 0.5s linear infinite; }
+.disc.snippet-thumbnail {margin-right: 2em;position: relative;width: 250px;height: 250px; overflow: hidden;}
+.disc.snippet-thumbnail img { width: 250px; height: 250px; }
+.highlight.post-pause .imgcurrent::before, article.highlight:hover .imgcurrent::before {content: "pause";font-family: "Material Icons"}
+.highlight.post-play .imgcurrent::before {content: "volume_up";font-family: "Material Icons"}
+article:hover .imgcurrent::before, article.highlight.post-pause:hover .imgcurrent::before {content: "play_arrow";font-family: "Material Icons"}
+.snippet-titles {flex: 1;padding: 0;overflow: hidden;}
+h4.author-song {margin: 0;border-top: 1px dashed #000;padding: 8px 0 0 0;}
+.toggle-button { position: absolute;top: -30px;right: -30px;}
+.toggle-button.toggle-on { color: #37ce00; }
+.toggle-button.toggle-off { color: red; }
+#video-image {width: 50px;height: 50px;overflow: hidden;position: relative;}
+#video-image img {width: 50px;height: 50px;}
+#songsList { display: grid; }
+#songsList.grid {display: flex;flex-direction: row;flex-wrap: wrap;gap: 3px;justify-content: center;}
+.imgcurrent { display: none; }
+.playButton.highlight .imgcurrent, article:hover .imgcurrent, article:active .imgcurrent {position: absolute;top: 0;right: 0;bottom: 0;left: 0;background-color: rgba(66, 9, 56,0.1);color: #fff;font-size: 100px;display: flex;align-items: center;justify-content: center;}
+.grid10 {display: grid;grid-template-columns: repeat(10, 1fr);gap: 5px;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
+.grid10 *:first-child, .grid10 *:last-child {grid-column: 1 / -1;}
+.grid10 > * {border: 1px solid #757575;padding: 5px;text-align: center;}
+.grid10 > a {border: 1px solid #37afc0;background-color: #37afc0;color: #fff;}
+@media screen and (max-width: 800px) {
+.grid10 {grid-template-columns: repeat(5, 1fr);}
+.playButton.highlight .imgcurrent, article:hover .imgcurrent, article:active .imgcurrent {font-size: 48px;}
+.toggle-button { position: absolute;top: -16px;right: -16px;}
+.disc.snippet-thumbnail, .disc.snippet-thumbnail img { width: 100px; height: 100px; }
+.snippet-thumbnail {margin-right: 0.5em;}
+.snippet-titles {padding: 0.5em 0;}
+.snippet-titles h3 { font-size: 20px;margin: 0 0 4px 0; }
+.barre .material-icons {padding: 4px;}
+.barre .material-icons.md-36 {font-size: 24px;}
+.barre .material-icons.md-48 {font-size: 36px;}
+.barre .material-icons { margin: 0px; }
+#video-time,#video-image,.flash-info {display: none;}
+.video-info {margin: 0 4px 0 8px;}
+#video-author {font-size: 14px;}
+.video-title-date {font-size: 12px;}
+.bar-right { margin: 0 4px 0 0; }
+.bar-left { margin: 0 0 0 4px; }
+.barre #volume-slider { width: 50px; }
+}
