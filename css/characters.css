@@ -45,6 +45,8 @@ p.macron::before { content: "Président Macron"; }
 p.prigojine::before { content: "Evgueni Prigojine"; }
 p.otanchoirs::before { content: "Chœurs des Forces Otaniennes"; }
 p.redchoirs::before { content: "Chœurs de l'Armée Rouge"; }
+p.tellarcomm::before { content: "Tellar Comm."; }
+p.tellarsecu::before { content: "Officier Sécurité Tellarite"; }
 
 .T1 p.agnes::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfziCj53G2ulA1xAXL_Mv4We_EB3WHw-m1LkNB7M_7tLjRCm-vNf_PGYCLZj9UInnQlJsD8iD7zZEj_he93k3c2M8ltHCoLxWvj6f0I9L1YIDYSgnktdXKaszqC1w9EFY3m0PHoKLaz0cyJS0oakQ4HW__0goyxLTgphks81Q-jJIIZmnpdz_Mop6OndYO/s80/Agnes%201.jpg'); }
 .T2 p.agnes::before,.T3 p.agnes::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXMzA8UqZTr4fNBz-rjwXeHuHiU5kDAFPJb7n7H7tb5L-d92aI7cVBIuTu9VH9svwg7vOKzCT6S4E_Utq490Zyhc1HvxH00VLUDlTYR9FHaY8fBzZ0qxtd_tl32azCX_McJAXX_V7qlcuuKAusYR2QVrKbitgfMJKdL1AHfcyDjyzoI1acGA_FchkY3jXT/s80/Agnes%202.jpg'); }
@@ -102,3 +104,5 @@ p.macron::before { background-image: url('https://blogger.googleusercontent.com/
 p.prigojine::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiRRhy6Dq389c-HU5imQ4qiDbQ6y3JUHTzrDnAPfda9kxmp8Vn0Osfke5i-s-OXV4ezvv1D_dwxOBSkyakBNbxDxpvgXNZAiP_7mnoKg2-dV6Q0sEqTixIHDp2iMsW9C17aza-v7LJNTOw2aarbAU0FPd2P2h2IdXRFRPUqCatMgBWJnmUnYStZVIoJ477/s80/Prigojine.jpg'); }
 p.otanchoirs::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBsk9jxNt6H1YCtxtYztA1KgmQLFOXGT3SBJgEZnuJ4uTOKuZFrQ-hz_Jfm_x4H1HGpobfscGsBhnnR742MzNqtwIy8C80ArDyA1mUrfJYGZYHddkDLA4wMGq2Z1qw1oIBOJXcLvIdY7g7ybFF0zXPezqvjONFL_XxLB4rSwnK4fprWeX3SEmyJWqZyu-0/s80/ChoirsNato.jpg'); }
 p.redchoirs::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2FDZrYpkmqzqJLChpi1jy0jg3e3yOVWR8iBjO1ghnFg8BJBxaXiKrH-NCBPzV61n-Z4khqUZFfexfrs_rvai1Yq6MqTl6klo3kLgDW2dsMO0YpaUvDmOF8jF01LniAP0vyhudghuJBsoxgQ3sboqb5oAkeSSUtGVguDNkwH3R3bkvSlsQ03QkxvQM61zh/s80/ChoirsRussian.jpg'); }
+p.tellarcomm::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd6foiqpsd4yRD9nVasYUjOFPyStEUTzYb1QbmMxNd5VWA9TOf7zHWFVxB0XCLyXj_HON2VPd9cgJcAZI-kgUHWs81zIgIMq5g3wMxHHZb37zW6vJjJcYVI2BaBM82XkRbme5CmRqBmhTZn2YMmqH4DLanNfYL52ITEdRpNXpvKTgNtLBBQ20b4PGVX58q/s80/TELLARcom.jpg'); }
+p.tellarsecu::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQXMJWgqMLOOyYZClC4gFlxHkwbs_6agDXMltpBjDCeKI2M2_PdUglvXeMs9psgX5ecmGRA0iShjklLhSTavOXHajYGqCFXYBh3b-pWTHfoKlngz_wCK_twoX-xRxV-AIle2131cUCm4WBnr2qKj6txW9nZ7vKR9-189Er06gz95k-Z9548AOdNENkfz3X/s80/TELLARsecurity.jpg'); }
