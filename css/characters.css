@@ -12,6 +12,7 @@ p.eric::before { content: "Lt. Cmdr. Eric Corda (Pilote)"; }
 .T2 p.emilie::before,.T3 p.emilie::before { content: "Lt. Émilie Flores (Communications)"; }
 p.charlene::before { content: "Lt. Charlène Savea (Opérations)"; }
 p.khoka::before { content: "K'hoka Khol'a"; }
+p.unknow.khoka::before { content: "Inconnu"; }
 p.gomard::before { content: "Col. Robert Gomard"; }
 .T1 p.gornok::before { content: "Gornok"; } .T2 p.gornok::before, .T3 p.gornok::before { content: "Chef Gornok"; }
 p.lingua::before { content: "IA Lingua"; }
