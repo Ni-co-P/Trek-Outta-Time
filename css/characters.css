@@ -29,7 +29,7 @@ p.otanlt::before { content: "Lt."; }
 p.otanofficer::before,p.otanofficer2::before { content: "Officier"; }
 p.pilot::before { content: "Pilote (Navette)"; }
 p.nurse::before { content: "Infirmier"; }
-p.OTANdoctor::before { content: "Docteur"; }
+p.OTANdoctor::before { content: "Dr. Victor S. Calpel"; }
 p.waitress::before { content: "Serveuse"; }
 p.lebeau::before { content: "Cpl. Lebeau"; }
 p.otanalpha::before { content: "Unité Alpha";} p.otanbravo::before { content: "Unité Bravo";} p.otancharlie::before { content: "Unité Charlie";} p.otandelta::before { content: "Unité Delta";} p.otanecho::before { content: "Unité Echo";} p.otanfoxtrot::before { content: "Unité Foxtrot";}
