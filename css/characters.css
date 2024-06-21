@@ -1,5 +1,5 @@
-.T1 p.agnes::before,.T2 p.agnes::before,.T3 p.agnes::before { content: "Capt. Agnes Rodriguez"; }
-.C1 p.agnes::before { content: "Col. Agnes Rodriguez"; }
+.T1 p.agnes::before,.T2 p.agnes::before,.T3 p.agnes::before { content: "Capt. Agnes V. Rodriguez"; }
+.C1 p.agnes::before { content: "Col. Agnes V. Rodriguez"; }
 .T1 p.angie::before,.T2 p.angie::before,.T3 p.angie::before { content: "Cmdr. Angie Chen (Numéro Un)"; }
 .T1 p.captain.angie::before { content: "Cmdr. Angie Chen (Capt. Interim.)"; }
 .C1 p.angie::before { content: "Col. Angie Chen"; }
