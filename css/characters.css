@@ -36,7 +36,8 @@ p.otanalpha::before { content: "Unité Alpha";} p.otanbravo::before { content: "
 p.otancomofficer::before { content: "Base Stellaire Comm."; }
 p.NORADCOM::before { content: "NORAD Comm."; }
 p.presidentusa::before { content: "Présidente USA"; }
-p.radio::before { content: "Radio Défense FM"; }
+p.defensefm.radio::before { content: "Radio Défense FM"; }
+p.radioparis.radio::before { content: "Radio Paris"; }
 p.q::before { content: "'Q'"; }
 p.koala::before { content: "Koala"; }
 p.tholian::before { content: "Tholien (Aragthonéen)"; }
