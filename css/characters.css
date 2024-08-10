@@ -4,6 +4,7 @@
 .T1 p.captain.angie::before { content: "Cmdr. Angie Chen (Capt. Interim.)"; }
 .C1 p.angie::before { content: "Col. Angie Chen"; }
 p.tarsi::before { content: "Cmdr. Vexoriana-Lyss'ra Tarsi"; }
+p.lysana::before { content: "Cmdr. Zaneth-Myra Lysana (Numéro Un V.S.S. Schak'Irra)"; }
 p.tmet::before { content: "Capt. T'Met"; }
 .T1 p.tribble::before { content: "Jeune Capt. T'Met"; }
 .T2 p.tribble::before { content: "Capt. T'Ribble"; }
@@ -63,6 +64,7 @@ p.tlesscop::before { content: "Lt. T'Less-Cop (Opérations V.S.S. Schak'Irra)"; 
 .T2 p.angie::before,.T3 p.angie::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7UCzdFP1NQF3W5gPaC6yIQMl7kjDZklM1O7snjeg_aNSkiMDL_0gnBbJcLSGD-NkSo4ZrPnkY5BHOGhJoj5678TtPyiWoO7WrE36WTYZhWDsiiKsuDv_-YrhRol2SjH1JaBPwavOUtFBeYSAiixz8W_TqPK7Nd7ttVmOGhHnxJTMPdFFVc0h8EYqvJqdW/s80/Angie%202.jpg'); }
 .T1 p.tarsi::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFEdVi-m8GuMUFxQNJWveq_D6q2BTsWObEr1s2EnRX4UDsv5Pba28vNY-4pfN7ltcBtrjjd3bOD3XZFn9M0KWpNgRl1FZJPh2jNMjStHYreDstQJWyS_VRXU7FWCnmw_lfwhiL8Cg0iLC4yuki_EVqzcl8uVnuYVXy_TTJUD2dCzZuIQNigPzqQ3BfcSLN/s80/Tarsi%201.jpg'); }
 .T2 p.tarsi::before,.T3 p.tarsi::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp9dEytHKesQsvbw2zIIcAqndUyfEepAegkNlQ9ydPld0zw5rxgCKg9jhifqB7NDGcOWtGNOByPK6tASarFzSLYp-W9Iwak_oh2zjDoPWoh_Y8v0DY9_Iea2gLDYsDovXIqrL5nKH4g5HUQNClLJkBhboxaP2W-9ynMdOEBfct8nu_CELUgf_cuIGWeXzQ/s80/Tarsi%202.jpg'); }
+p.lysana::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAj6ObCfg5cVp93GBR9C7Yke5Dg3uaKbdnQi8_omAuXoMFNWDXYHR3uF6Gva1xsW0SNls5BiFURW-oW4Z-OU-gkSFPhbxm-awplf2RsoZE-RQfkC89Qu5Z3Tuj644ZzOsXu87kCltsZxk8IvG_PjyM-UohKCNtV2vgEihijZivpLavdrX6oIu1lFHrBR83/s80/Zaneth-Myra%20Lysana%201.jpg'); }
 .T1 p.tmet::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEHxJRT1so9yaikj1ALtOdsjOd1ymneH9qP-LhbITsoa5AqKzu8R-zG9mo5EmgfNim3fGrF0kHSl13qaGfcpbiobfPvfz1Z9OTQEpFGlkniR8-uN_yBgOZLlDMYoNXVXPFvtqv6DdbKkV8iAgfNIGYgWEhBS4fDvguKMoC7atrO1O1L6Q7ZhHAxASul0iT/s80/TMet%201.jpg'); }
 .T2 p.tmet::before,.T3 p.tmet::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwMAXAncdpw8XxwppX2Yv79HPZgGc-sgmHN3qA5C1mPfKLypGaBIGGWevqc25NmgfQP0ChNHaeWs0dQA4tS03ZRTSHCfqLLuQE6oRrPqmAlbV1uJNvHI8TkDlTZDoq6w1CQ39l_1FIjF4EY-pohGuWKnTectpCE2fZf8v3wDU4A9v2JXs3gWgHzBAGJs4l/s80/TMet%202.jpg'); }
 .T1 p.tribble::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-2Fqe9vBFp48B0W0JcsRw5jThUJzI7Q13FvyBn3GTdcqZGAa1reZ61-vmvdqyWy8yt5n8aAhReLuQsDkqCHGvw0lCmpecdrHQoyUfyGOyXeNYLeb-4FiG9VmYk1r40uxJVysu_MGlWPdfaXBKwu_ey-MPq1nxArRWlV5b-vlrER2RIQAZeSer7zFNyex2/s80/T%27Ribble%201.jpg'); }
