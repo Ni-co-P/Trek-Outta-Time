@@ -17,7 +17,7 @@ p.unknow.khoka::before { content: "Inconnu"; }
 p.gomard::before { content: "Col. Robert Gomard"; }
 .T1 p.gornok::before { content: "Gornok"; } .T2 p.gornok::before, .T3 p.gornok::before { content: "Chef Gornok"; }
 p.lingua::before { content: "IA Lingua"; }
-p.lingua.schakirra::before { content: "IA Lingua (IA VSS Schak'Irra)"; }
+p.schakirra.lingua::before { content: "IA Lingua (IA VSS Schak'Irra)"; }
 p.quihoui::before { content: "Adm. Quihoui"; }
 p.touitair::before { content: "Maître Touitair"; }
 p.eros::before { content: "Ens. Eros Vitos"; }
