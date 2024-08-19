@@ -59,6 +59,7 @@ p.tkilla::before { content: "Lt. T'Killa (Communications V.S.S. Schak'Irra)"; }
 p.tlesscop::before { content: "Lt. T'Less-Cop (Opérations V.S.S. Schak'Irra)"; }
 p.starfleetagent::before { content: "Agent Starfleet Security"; }
 p.inkognytoh::before { content: "Agent In'kògnytôh"; }
+p.starfleethologram::before { content: "Hologramme Starfleet"; }
 
 .T1 p.agnes::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfziCj53G2ulA1xAXL_Mv4We_EB3WHw-m1LkNB7M_7tLjRCm-vNf_PGYCLZj9UInnQlJsD8iD7zZEj_he93k3c2M8ltHCoLxWvj6f0I9L1YIDYSgnktdXKaszqC1w9EFY3m0PHoKLaz0cyJS0oakQ4HW__0goyxLTgphks81Q-jJIIZmnpdz_Mop6OndYO/s80/Agnes%201.jpg'); }
 .T2 p.agnes::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjMtHOIQBf3xcnPF5KLpCoEqg3QGllCMhspviHqvUTge5-yJCAoS6fBfqttBm8_fNwPOXmkTIZ186R7ZV147FAC-LTIdTjO4ny6g6ucDVyXWBVObO_pigX-SEi4F6Vl2gqfJB1fgOL-tySJzsJwRrbKcWC4gga9SxrF8NUntWIYJWazPFQr7F1Ta0ZIxUn/s80/Agnes%202.jpg'); }
@@ -133,3 +134,4 @@ p.tkilla::before { background-image: url('https://blogger.googleusercontent.com/
 p.tlesscop::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgtSCspFrI3Kj_cBJqiDcJ1CwPtPMLUcLnx8jvFin_pxZ9DkO_F-QOz_pe8VgZz9KQHn_K-qmJ7DjKb5rD_xCyN_8r99JTdg4t4U7Upl62MyWsa0fbmDpd5S_ZdivgB63POL1v_beLopaRDbzTzhef6g6-VBSzUjyW3NkClA0hg-Pt2fHtk6Dr4cz_DuY8/s80/TLess-Cop.jpg'); }
 p.starfleetagent::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Wiaw2Cfa8vphRjr1lTq7XyJO0W2aL167uO40xygXoCWe97MivWtMQ__CScHLAQq40ieY6pNk97kMtn70HbGwYK4hkkompIFbeUWxMQOC70WoJ_fVqbexQyHJkthSKvohExPiB2lrhXiawC3-xGzUfffHOzZkxTHmOith3WmJ4l8fJvgOPEZhaydRCZNU/s80/starfleetsecu1.jpg'); }
 p.inkognytoh::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLNtsaAdcpcU5DsP2jwzmuTylmViGSFq26u0hyp2eEX4UYt1DdNIinheLZ8dZAnrO0ugoJszyZtjeZI3Bui4x1o_WyDXVTT7B3x4TcIqyhxgX6mqjrrh-Z5t3W6C6rm0C6mqQqe1nDVX3Mju2AiKTzZmSPOUJyUMIpJCudUmXO_XsTS0omZTO9udd7oV9G/s80/Inkognytoh.jpg'); }
+p.starfleethologram::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLe6XHdSY23CupB01kEfeOh5XaryN6fQ7R6s8ENp9mn_oRzKokpDwGnwquY9XHV2uLmVT2w4k_nxXg8RpSb90HTMy9kB8xh37EFO3PK_5XqEm6ZhRJmWGEns8ano5Z_Sryo63d_4upgUrrvntaKKOjB6LxdlkGKAj9-ttzq5WhChy7TPmJ3DpDKGYlRTEe/s80/starfleetholo.jpg'); }
