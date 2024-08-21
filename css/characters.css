@@ -18,7 +18,7 @@ p.gomard::before { content: "Col. Robert Gomard"; }
 .T1 p.gornok::before { content: "Gornok"; } .T2 p.gornok::before, .T3 p.gornok::before { content: "Chef Gornok"; }
 p.lingua::before { content: "IA Lingua"; }
 p.schakirra.lingua::before { content: "IA Lingua (IA VSS Schak'Irra)"; }
-p.quihoui::before { content: "Adm. Quihoui"; }
+.T1 p.quihoui::before { content: "Adm. Quihoui"; } .T2 p.quihoui::before, .T3 p.quihoui::before { content: "Quihoui"; }
 p.touitair::before { content: "Maître Touitair"; }
 p.eros::before { content: "Ens. Eros Vitos"; }
 p.manu::before { content: "Manu"; }
@@ -90,7 +90,9 @@ p.lysana::before { background-image: url('https://blogger.googleusercontent.com/
 .T1 p.parasite.lingua::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMxAa8iv3Ywu4QpHupfle-p3KHqgTPZbI2FVSZnz4Hd-xcpKKQJZ-cfuk0tA8YAKW0wHZKllXPNdnM1DTznzvm_sT1ebqMMB30jyq024KEabJaOZMim02vvsdtiWnXPTT_4kIm8gQjr7ZQPW6s-_DJhSfLapzIZOFFzWJlxFokgMwL7kyVKNCjsqHWxSL_/s80/Lingua%201%20parasites.jpg'); }
 .T1 p.memory.lingua::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwvOCdEae7g6cYsxSgSuV_fnDOuxdz7R2CSvUcbOqP38nYuK2Y6sZfJJk4thURWngK7W8Fh9RlaVlBMwAAQQwYCLf-CG8wJ346KKYK3IokgMKQzuqTy5MgtG2nxgBsyO6l4r1CZmNhlN-gpdPYMXvzrnOPHtaRs824zAADM_CVMjFCH8_0NN5M47aCq6cU/s80/Lingua%201%20memory.jpg'); }
 .T1 p.schakirra.lingua::before, .T2 p.lingua::before,.T3 p.lingua::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqa64eSq-Iih1B2JKq6IlwSzznXKMX6tXMk6QJGGNDei7N2jcPvM4A4665mxKFDCA0bN8yQHNTtSLBN4JQejeeEcFAVJqS9L8NsE6bE_fdMJ4eyc5SPWwfoFCNnlQFS_LcoYXtBu_mvCX6xVt8F0RyAM_st3d7F8znIt9KzOvKmDd1-cprNae1SYiBg7ys/s80/Lingua%202.jpg'); }
-p.quihoui::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbj9GhzfrRlSSElt8Ax8gKu-jeGCngskiN6Qe1004Jrmo-Ub-vd8tJEThqzpn1QR0ZOc1RaBzwm4LcjjsW07cZ4F3Pkwc7ovnStq3fDfu9AzbojICv97XvS_yb6yx348F2DpqlaRPsb9ILKWIVcsw2dwuZjsnMb089lP5Ypz5N_POtoo7mjZM2dTg4EP6N/s80-cc/Quihoui%20-%202554.jpg'); }
+.T1 p.quihoui::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoIdlKpHDvhEIQ6WWn10jY0cfYigmhyphenhyphenmUi-eu948W2RY8Fnk6KHq4FKCntquWX-eT_17VoeAugUYITSdSyp9KlrvKE64KRv1tnNrVsIB5GUggWWbxQC0Wh9Xp67mYKM8JtHPBwg-8-xd_vJ7dp1FTBAnYEEv5NARixr3KIFvu57u-sv14EGQpg3H9W7lXV/s80/Quihoui%201.jpg'); }
+.T2 p.quihoui::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0SXpGgflpm3LrtN0mWtfFlEryoCBP5LTjFhfKjKdSLVUSk_2msjA_Az_9o5jTCBjwbi7Km3v3Tvj6mQMznAX5b9F66i1gGiulqq_EjEZthUqLBt9rt-ijfiZxPyR8MRJLX495iUGU6TB_2k7K8TFoXYS6z4Oon6NZbZB4Dwb_XhAZT3-kZv1BNZeLeciP/s80/Quihoui%202.jpg'); }
+.T3 p.quihoui::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC0Z930KnCAKhJ3wj7pd-MPwA27Kd8mTCL1RZEMhZiKDxTkrb2riYhtq4_xL79InHgAfVRs78kqKhq_fpZYZgnq2flaFJp4sD5LFL2qApaC_NSSmDot9pZYVQzE5axuNqeHR5siUvUSa-Bb-PRrbTwkGRPClcPSn6oSq2HHWLBvRnQ-XOLaR_EsWmLKTJx/s80/Quihoui%203.jpg'); }
 p.touitair::before { background-image: url(''); }
 .T1 p.eros::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjo4bAKs2y55eadJAyRe5nfsi0W93lVBDezH4l9KxbloM8uvJabH4nX5grgivpSz76YmZK3EHODJ4yuJpsiXDncpppR3r6DNYyNq8y9S-JRBbgb3PE4AhanFdYr698NGx3viwj0kxm1DVBTXA1CtekYaYkAc7zmAgNm3y1dNtonDM0v8krnbTyEsyoA8z2/s80/Eros%201.jpg'); }
 .T2 p.eros::before,.T3 p.eros::before { background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo8YZHLYE7l3ZF5ereyjBPw_bhQ-6ggwEhaxO8N1pV3sNSI6HZLO4ypJi0AmYE1qF1Ivc3SUZc95uYdZkkNpqguHoAlZA9SWPEUOpKzFJFfjXDiDpnX7ccDG-N_iYgaAYdYr8JnFuFrnKIHMFf-CAY8mBwVeuj_hTybCOUNR-GpUY8tCRL2DRx0JXFx7hl/s80/Eros%202.jpg'); }
