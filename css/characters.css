@@ -1,13 +1,13 @@
 .T1 p.agnes::before,.T2 p.agnes::before,.T3 p.agnes::before { content: "Capt. Agnes V. Rodriguez"; }
 .C1 p.agnes::before { content: "Col. Agnes V. Rodriguez"; }
-.T1 p.angie::before,.T2 p.angie::before,.T3 p.angie::before { content: "Cmdr. Angie Chen (Numéro Un)"; }
+.T1 p.angie::before,.T2 p.angie::before,.T3 p.angie::before { content: "Cmdr. Angie Chen (Number One)"; }
 .T1 p.captain.angie::before { content: "Cmdr. Angie Chen (Capt. Interim.)"; }
 .C1 p.angie::before { content: "Col. Angie Chen"; }
 p.tarsi::before { content: "Cmdr. Vexoriana-Lyss'ra Tarsi"; }
-p.lysana::before { content: "Cmdr. Zaneth-Myra Lysana (Numéro Un V.S.S. Schak'Irra)"; }
+p.lysana::before { content: "Cmdr. Zaneth-Myra Lysana (Number One V.S.S. Schak'Irra)"; }
 p.tmet::before { content: "Capt. T'Met"; }
-.T1 p.tribble::before { content: "Jeune Capt. T'Met"; }
-.T2 p.tribble::before { content: "Capt. T'Ribble"; }
+.T1 p.tribble::before { content: "Jeune Capt. T'Met (V.S.S. Schak'Irra)"; }
+.T2 p.tribble::before { content: "Capt. T'Ribble (V.S.S. Schak'Irra)"; }
 p.eric::before { content: "Lt. Cmdr. Eric Corda (Pilote)"; }
 .T1 p.emilie::before { content: "Ens. Émilie Flores (Communications)"; }
 .T2 p.emilie::before,.T3 p.emilie::before { content: "Lt. Émilie Flores (Communications)"; }
@@ -19,7 +19,7 @@ p.gomard::before { content: "Col. Robert Gomard"; }
 p.lingua::before { content: "IA Lingua"; }
 p.schakirra.lingua::before { content: "IA Lingua (IA V.S.S. Schak'Irra)"; }
 .T1 p.quihoui::before { content: "Adm. Quihoui (Division Temporelle)"; } .T2 p.quihoui::before, .T3 p.quihoui::before { content: "Quihoui"; }
-p.touitair::before { content: "Maître Touitair"; }
+p.touitair::before { content: "Maître Touitair (Avocat)"; }
 p.eros::before { content: "Ens. Eros Vitos"; }
 p.manu::before { content: "Manu"; }
 p.hamilton::before { content: "Adm. Jules Hamilton"; }
