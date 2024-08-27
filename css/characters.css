@@ -19,7 +19,7 @@ p.gomard::before { content: "Col. Robert Gomard"; }
 p.lingua::before { content: "IA Lingua"; }
 p.schakirra.lingua::before { content: "IA Lingua (IA V.S.S. Schak'Irra)"; }
 .T1 p.quihoui::before { content: "Adm. Quihoui (Division Temporelle)"; } .T2 p.quihoui::before, .T3 p.quihoui::before { content: "Quihoui"; }
-p.touitair::before { content: "Maître Touitair (Avocat)"; }
+p.touitair::before { content: "Maître Touit'Air (Avocat)"; }
 p.eros::before { content: "Ens. Eros Vitos"; }
 p.manu::before { content: "Manu"; }
 p.hamilton::before { content: "Adm. Jules Hamilton"; }
